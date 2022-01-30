@@ -1,0 +1,51 @@
+.main {
+  background-color: #054175;
+  color: white;
+  width: 1920px;
+  height: 655px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.topic {
+  width: 798px;
+  height: 148px;
+  font-family: "Roboto Slab", serif;
+  font-size: medium;
+}
+
+.innerLeft {
+  width: 659px;
+  height: 239px;
+  font-family: "Roboto", sans-serif;
+}
+.innerLeft a {
+  color: white;
+}
+
+.right {
+  padding: 35px 120px 35px 20px;
+}
+
+.right h2 {
+  width: 337px;
+  height: 74px;
+  padding-left: 30px;
+}
+
+.right ul {
+  list-style: none;
+  width: 337px;
+  height: 384px;
+}
+.right li {
+  margin-bottom: 35px;
+}
+
+.bld {
+  font-weight: bold;
+}
+.left {
+  padding: 35px 70px;
+}

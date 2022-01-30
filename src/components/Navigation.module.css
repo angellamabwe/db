@@ -1,0 +1,87 @@
+.top {
+  width: 1920px;
+  height: 839px;
+  background-image: url("../../public/image/zoe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Roboto Slab", serif;
+}
+
+.fao {
+  padding: 4px;
+  font-size: 2rem;
+  color: #054175;
+}
+
+.header {
+  padding: 20px 70px;
+  display: flex;
+  flex-direction: row;
+  background-color: #fff;
+  color: #333333;
+}
+
+.header ul {
+  list-style: none;
+  margin-top: 15px;
+  padding: 0;
+  display: flex;
+  align-items: baseline;
+}
+
+.header li {
+  margin: 0 1rem;
+}
+.header input {
+  border-radius: 16px;
+}
+
+.srch {
+  margin-left: -25px;
+}
+
+.dummy {
+  width: 535px;
+}
+
+.top p {
+  color: white;
+  font-size: 62px;
+  font-weight: bold;
+}
+
+.logo {
+  font-size: 2rem;
+}
+
+.rgt {
+  border-radius: 16px;
+  background-color: #0f5da1;
+}
+
+.modal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10% 10%;
+}
+
+.dzn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  width: 1056px;
+  height: 201px;
+  border-radius: 6px;
+}
+.dznItm {
+  margin: 0.5rem 1.5rem;
+  color: #0a86f4;
+  font-size: xx-large;
+}
+.dznMsg {
+  margin: 0.5rem 1.5rem;
+  font-size: 20px;
+}
