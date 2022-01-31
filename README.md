@@ -9,3 +9,7 @@ Created the styling sheets using module.css
 mainly for separation of concern
 then I wired all the components in the App.js
 used the properties on the design sheet
+
+How to run the app
+  1. npm install
+  2. npm start
